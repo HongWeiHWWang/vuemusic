@@ -2,7 +2,14 @@
 
 > A Vue.js project. A music player by vue stack.
 
-## Build Setup
+## Clone it
+
+```bash
+$ git clone https://github.com/zce/music-player.git -b vue --depth 1
+$ cd vuemusic
+```
+
+## Run it
 
 ``` bash
 # install dependencies
@@ -10,6 +17,8 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
+
+## build it
 
 # build for production with minification
 npm run build
