@@ -1,6 +1,6 @@
 # vuemusic
 
-> A Vue.js project
+> A Vue.js project. A music player by vue stack.
 
 ## Build Setup
 
